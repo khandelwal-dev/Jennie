@@ -16,7 +16,7 @@ import {
 import { SafeAreaView } from "react-native-safe-area-context";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const API_URL = "http://10.252.149.244:3000";
+const API_URL = "http://10.252.149.244:3000"; // ahh make sure to change this with right  IPv4 Address 
 
 const MESSAGES_KEY = "@jennie_messages";
 
